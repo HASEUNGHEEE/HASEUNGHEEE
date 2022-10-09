@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SEUNGHEE%20HA&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F7DF1E&height=300&section=header&text=SEUNGHEE%20HA&fontSize=90)
 
-<h3 align="center"> 💡About Me💡 </h3>
+<h3 align="center"> 🙌About Me🙌 </h3>
 <p align="center"> 안녕하세요! 백엔드 주니어 개발자입니다. </p>
 
 <p align="center">
@@ -27,10 +27,15 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=Amazon AWS&logo=Amazon AWS&logoColor=white"/> 
 </div>
 
+---------------------------------------------------------------------------------------------------------------------
+<h3 align="center"> 💡Study💡 </h3>
+<p align="center"> 학습한 내용, 프로젝트 과정, 트러블 슈팅 등을 기록하는 개인 블로그입니다. </p>
+<div align='center'>
+  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=ariul-dev&color=white">
+</div>
 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ariul-dev)](https://velog.io/@ariul-dev) 
 
 
 
