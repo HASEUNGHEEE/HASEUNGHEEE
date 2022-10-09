@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://ariul123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-F06B66?style=Gmail&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@ariul-dev" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=Velog&logo=Velog&logoColor=white"/></a>
-<a href="https://velog.io/@ariul-dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-01B4E4?style=Notion&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/309f4565afbe441aaec3b7d2f93e43f0" target="_blank"><img src="https://img.shields.io/badge/Portfolio-01B4E4?style=Notion&logo=Notion&logoColor=white"/></a>
 
 
 <h3 align="center"> 🛠️Tech Stack🛠️ </h3>
