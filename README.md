@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=95eef0&height=250&section=header&text=-nl-SEUNGHEE%20HA-nl-&fontSize=90&fontColor=ffffff&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=270&section=header&text=SEUNGHEE%20HA&fontSize=90&fontColor=ffffff)
 
 <h3 align="center"> 👩‍💻 About Me </h3>
 <p align="center"> 안녕하세요! Aha-! 모먼트가 즐거운 개발자 하승희입니다. </p>
@@ -30,10 +30,3 @@
 <div align='center'>
   <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=ariul-dev&color=white">
 </div>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=95eef0&height=200&section=footer)
-
-
-
-
