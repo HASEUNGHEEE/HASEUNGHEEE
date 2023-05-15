@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=270&section=header&text=SEUNGHEE%20HA&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD708&height=270&section=header&text=SEUNGHEE%20HA&fontSize=90&fontColor=ffffff)
 
 <h3 align="center"> 👩‍💻 About Me </h3>
 <p align="center"> 안녕하세요! Aha-! 모먼트가 즐거운 개발자 하승희입니다. </p>
