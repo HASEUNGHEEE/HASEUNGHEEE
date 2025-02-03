@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD708&height=270&section=header&text=SEUNGHEE%20HA&fontSize=90&fontColor=ffffff)
-
-<h3 align="center"> 👩‍💻 About Me </h3>
-<p align="center"> 안녕하세요! Aha-! 모먼트가 즐거운 개발자 하승희입니다. </p>
+<h3 align="center"> 🪴 About Me </h3>
+<p align="center"> 안녕하세요, Aha-! 모먼트가 즐거운 하승희입니다. </p>
 
 <p align="center">
 <a href="https://ariul123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-F06B66?style=Gmail&logo=Gmail&logoColor=white"/></a>
@@ -10,9 +8,9 @@
 
 <h3 align="center"> 🛠️ Tech Stack </h3>
 <div align="center">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=SQL&logo=MSSQL&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Python-3776AB?style=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=Java&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=SpringBoot&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=Spring&logo=Spring&logoColor=white"/>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"/>
@@ -20,8 +18,7 @@
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white"/>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=MySQL&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=MongoDB&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=SpringBoot&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=Amazon AWS&logo=Amazon AWS&logoColor=white"/> 
 </div>
 <h2></h2>
